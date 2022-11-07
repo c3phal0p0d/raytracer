@@ -1,0 +1,84 @@
+Material "WhiteMat" Diffuse (1, 1, 1) 1
+Material "BlackMat" Diffuse (0, 0, 0) 1
+Material "RedMat" Diffuse (0.4, 0, 0) 1
+Material "GlassMat" Refractive (0, 0, 0) 1.4
+Material "MirrorMat" Reflective (0, 0, 0) 1
+Material "GlossyRedMat" Glossy (0.4, 0, 0) 1
+Material "GlossyBlackMat" Glossy (0, 0, 0) 1
+
+PointLight "Light1" (-0.5, 0.7, 1.5) (1, 1, 1)
+PointLight "Light2" (0.5, 0.5, 1.1) (1, 1, 1)
+
+Sphere "MirrorSphere" (0, -0.3, 2.6) 0.5 "MirrorMat"
+Sphere "GlassSphere" (0.4, -0.3, 1.4) 0.2 "GlassMat"
+Sphere "GlossyRedSphere" (-0.4, 0.1, 1.9) 0.2 "GlossyRedMat"
+Sphere "GlossyBlackSphere" (0.4, 0.4, 2.2) 0.2 "GlossyBlackMat"
+
+Triangle "Floor11A" (-1, -1, 1) (-1, -1, 1.5) (-0.5, -1, 1.5) "WhiteMat"
+Triangle "Floor11B" (-1, -1, 1) (-0.5, -1, 1.5) (-0.5, -1, 1) "WhiteMat"
+Triangle "Floor21A" (-1, -1, 1.5) (-1, -1, 2) (-0.5, -1, 2) "BlackMat"
+Triangle "Floor21B" (-1, -1, 1.5) (-0.5, -1, 2) (-0.5, -1, 1.5) "BlackMat"
+Triangle "Floor31A" (-1, -1, 2) (-1, -1, 2.5) (-0.5, -1, 2.5) "WhiteMat"
+Triangle "Floor31B" (-1, -1, 2) (-0.5, -1, 2.5) (-0.5, -1, 2) "WhiteMat"
+Triangle "Floor41A" (-1, -1, 2.5) (-1, -1, 3) (-0.5, -1, 3) "BlackMat"
+Triangle "Floor41B" (-1, -1, 2.5) (-0.5, -1, 3) (-0.5, -1, 2.5) "BlackMat"
+Triangle "Floor51A" (-1, -1, 3) (-1, -1, 3.5) (-0.5, -1, 3.5) "WhiteMat"
+Triangle "Floor51B" (-1, -1, 3) (-0.5, -1, 3.5) (-0.5, -1, 3) "WhiteMat"
+
+Triangle "Floor12A" (-0.5, -1, 1) (-0.5, -1, 1.5) (0, -1, 1.5) "BlackMat"
+Triangle "Floor12B" (-0.5, -1, 1) (0, -1, 1.5) (0, -1, 1) "BlackMat"
+Triangle "Floor22A" (-0.5, -1, 1.5) (-0.5, -1, 2) (0, -1, 2) "WhiteMat"
+Triangle "Floor22B" (-0.5, -1, 1.5) (0, -1, 2) (0, -1, 1.5) "WhiteMat"
+Triangle "Floor32A" (-0.5, -1, 2) (-0.5, -1, 2.5) (0, -1, 2.5) "BlackMat"
+Triangle "Floor32B" (-0.5, -1, 2) (0, -1, 2.5) (0, -1, 2) "BlackMat"
+Triangle "Floor42A" (-0.5, -1, 2.5) (-0.5, -1, 3) (0, -1, 3) "WhiteMat"
+Triangle "Floor42B" (-0.5, -1, 2.5) (0, -1, 3) (0, -1, 2.5) "WhiteMat"
+Triangle "Floor52A" (-0.5, -1, 3) (-0.5, -1, 3.5) (0, -1, 3.5) "BlackMat"
+Triangle "Floor52B" (-0.5, -1, 3) (0, -1, 3.5) (0, -1, 3) "BlackMat"
+
+Triangle "Floor13A" (0, -1, 1) (0, -1, 1.5) (0.5, -1, 1.5) "WhiteMat"
+Triangle "Floor13B" (0, -1, 1) (0.5, -1, 1.5) (0.5, -1, 1) "WhiteMat"
+Triangle "Floor23A" (0, -1, 1.5) (0, -1, 2) (0.5, -1, 2) "BlackMat"
+Triangle "Floor23B" (0, -1, 1.5) (0.5, -1, 2) (0.5, -1, 1.5) "BlackMat"
+Triangle "Floor33A" (0, -1, 2) (0, -1, 2.5) (0.5, -1, 2.5) "WhiteMat"
+Triangle "Floor33B" (0, -1, 2) (0.5, -1, 2.5) (0.5, -1, 2) "WhiteMat"
+Triangle "Floor43A" (0, -1, 2.5) (0, -1, 3) (0.5, -1, 3) "BlackMat"
+Triangle "Floor43B" (0, -1, 2.5) (0.5, -1, 3) (0.5, -1, 2.5) "BlackMat"
+Triangle "Floor53A" (0, -1, 3) (0, -1, 3.5) (0.5, -1, 3.5) "WhiteMat"
+Triangle "Floor53B" (0, -1, 3) (0.5, -1, 3.5) (0.5, -1, 3) "WhiteMat"
+
+Triangle "Floor14A" (0.5, -1, 1) (0.5, -1, 1.5) (1, -1, 1.5) "BlackMat"
+Triangle "Floor14B" (0.5, -1, 1) (1, -1, 1.5) (1, -1, 1) "BlackMat"
+Triangle "Floor24A" (0.5, -1, 1.5) (0.5, -1, 2) (1, -1, 2) "WhiteMat"
+Triangle "Floor24B" (0.5, -1, 1.5) (1, -1, 2) (1, -1, 1.5) "WhiteMat"
+Triangle "Floor34A" (0.5, -1, 2) (0.5, -1, 2.5) (1, -1, 2.5) "BlackMat"
+Triangle "Floor34B" (0.5, -1, 2) (1, -1, 2.5) (1, -1, 2) "BlackMat"
+Triangle "Floor44A" (0.5, -1, 2.5) (0.5, -1, 3) (1, -1, 3) "WhiteMat"
+Triangle "Floor44B" (0.5, -1, 2.5) (1, -1, 3) (1, -1, 2.5) "WhiteMat"
+Triangle "Floor54A" (0.5, -1, 3) (0.5, -1, 3.5) (1, -1, 3.5) "BlackMat"
+Triangle "Floor54B" (0.5, -1, 3) (1, -1, 3.5) (1, -1, 3) "BlackMat"
+
+Triangle "Floor15A" (1, -1, 1) (1, -1, 1.5) (1.5, -1, 1.5) "WhiteMat"
+Triangle "Floor15B" (1, -1, 1) (1.5, -1, 1.5) (1.5, -1, 1) "WhiteMat"
+Triangle "Floor25A" (1, -1, 1.5) (1, -1, 2) (1.5, -1, 2) "BlackMat"
+Triangle "Floor25B" (1, -1, 1.5) (1.5, -1, 2) (1.5, -1, 1.5) "BlackMat"
+Triangle "Floor35A" (1, -1, 2) (1, -1, 2.5) (1.5, -1, 2.5) "WhiteMat"
+Triangle "Floor35B" (1, -1, 2) (1.5, -1, 2.5) (1.5, -1, 2) "WhiteMat"
+Triangle "Floor45A" (1, -1, 2.5) (1, -1, 3) (1.5, -1, 3) "BlackMat"
+Triangle "Floor45B" (1, -1, 2.5) (1.5, -1, 3) (1.5, -1, 2.5) "BlackMat"
+Triangle "Floor55A" (1, -1, 3) (1, -1, 3.5) (1.5, -1, 3.5) "WhiteMat"
+Triangle "Floor55B" (1, -1, 3) (1.5, -1, 3.5) (1.5, -1, 3) "WhiteMat"
+
+Plane "Roof" (0, 1, 0) (0, -1, 0) "WhiteMat"
+
+Triangle "LeftWallA" (-1, -1, 1) (-1, 1, 1) (-1, 1, 4) "RedMat"
+Triangle "LeftWallB" (-1, -1, 1) (-1, 1, 4) (-1, -1, 4) "RedMat"
+
+Triangle "RightWallA" (1.5, 1, 1) (1.5, -1, 1) (1.5, 1, 4) "RedMat"
+Triangle "RightWallB" (1.5, 1, 4) (1.5, -1, 1) (1.5, -1, 4)  "RedMat"
+
+Triangle "RearWallA" (-1, 1, 1) (-1, -1, 1) (1.5, 1, 1) "RedMat"
+Triangle "RearWallB" (1.5, 1, 1) (-1, -1, 1) (1.5, -1, 1) "RedMat"
+
+Triangle "FarWallA" (-1, -1, 3.5) (-1, 1, 3.5) (1.5, 1, 3.5) "RedMat"
+Triangle "FarWallB" (-1, -1, 3.5) (1.5, 1, 3.5) (1.5, -1, 3.5) "RedMat"

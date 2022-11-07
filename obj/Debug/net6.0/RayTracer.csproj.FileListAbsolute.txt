@@ -1,0 +1,36 @@
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/RayTracer
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/RayTracer.deps.json
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/RayTracer.runtimeconfig.json
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/RayTracer.dll
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/RayTracer.pdb
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/CommandLine.dll
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/bin/Debug/net6.0/StbImageWriteSharp.dll
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.csproj.AssemblyReference.cache
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.AssemblyInfoInputs.cache
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.AssemblyInfo.cs
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.csproj.CoreCompileInputs.cache
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.csproj.CopyComplete
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.dll
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/refint/RayTracer.dll
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.pdb
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/RayTracer.genruntimeconfig.cache
+/Users/nc/uni/2nd year/sem 2/COMP30019/project-1-ray-tracer-natashachiorsac/obj/Debug/net6.0/ref/RayTracer.dll
+/Users/nc/programming/raytracer/bin/Debug/net6.0/RayTracer
+/Users/nc/programming/raytracer/bin/Debug/net6.0/RayTracer.deps.json
+/Users/nc/programming/raytracer/bin/Debug/net6.0/RayTracer.runtimeconfig.json
+/Users/nc/programming/raytracer/bin/Debug/net6.0/RayTracer.dll
+/Users/nc/programming/raytracer/bin/Debug/net6.0/RayTracer.pdb
+/Users/nc/programming/raytracer/bin/Debug/net6.0/CommandLine.dll
+/Users/nc/programming/raytracer/bin/Debug/net6.0/StbImageWriteSharp.dll
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.csproj.AssemblyReference.cache
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.AssemblyInfoInputs.cache
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.AssemblyInfo.cs
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.csproj.CoreCompileInputs.cache
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.csproj.CopyComplete
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.dll
+/Users/nc/programming/raytracer/obj/Debug/net6.0/refint/RayTracer.dll
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.pdb
+/Users/nc/programming/raytracer/obj/Debug/net6.0/RayTracer.genruntimeconfig.cache
+/Users/nc/programming/raytracer/obj/Debug/net6.0/ref/RayTracer.dll

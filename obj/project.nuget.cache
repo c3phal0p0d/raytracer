@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuPVNQAnm/x0plDhCxSeFFoTZ6TKqaHYur0rdG0jj8r+GWYuJCDS/ZaYeDmd1eMgRwp7RP6Jonb1Q8MU2NwLww==",
+  "success": true,
+  "projectFilePath": "/Users/nc/programming/raytracer/RayTracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/nc/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/nc/.nuget/packages/stbimagewritesharp/1.16.7/stbimagewritesharp.1.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
