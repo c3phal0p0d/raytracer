@@ -1,5 +1,9 @@
 # Raytracer
 
+<p align=“center">
+    <img src="images/final_scene.png">
+</p>
+
 ### Features currently implemented:  
 * Support for triangles, spheres & planes
 * Support for different types of materials: diffuse, reflective, refractive & glossy
