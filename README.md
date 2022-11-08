@@ -4,7 +4,7 @@
     <img src="images/final_scene.png">
 </p>
 
-### Features currently implemented:  
+#### Features currently implemented:  
 * Support for triangles, spheres & planes
 * Support for different types of materials: diffuse, reflective, refractive & glossy
 * Shadow casting
@@ -12,7 +12,7 @@
 * Depth of field
 * Anti-aliasing
 
-### Features to be implemented:
+#### Features to be implemented:
 * Support for emissive materials
 * OBJ model support
 * Ambient occlusion
